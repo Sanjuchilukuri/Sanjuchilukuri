@@ -18,7 +18,7 @@
   <li>Devops Engineer</li>
   <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
   <li>Database Management (MySQL, MongoDB)</li>
-  <li>Linux</li>
+  <li>Operating systems ( Linux, Windows) </li>
   
 </ul>
 
@@ -28,13 +28,26 @@
 
 
 
-[![](https://leetcard.jacoblin.cool/Udaybhaskartalari2002?theme=dark)](https://leetcode.com/sanju1819/)
+[![](https://leetcard.jacoblin.cool/sanju1819?theme=dark)](https://leetcode.com/sanju1819/)
 
 
 
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://github.com/Sanjuchilukuri" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="35" height="40"/> </a> </a> <a href="https://github.com/Sanjuchilukuri" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://github.com/Sanjuchilukuri" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="35" height="40"/> 
+</a> 
+<a href="https://github.com/Sanjuchilukuri" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> 
+</a>   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> 
+</a> 
+</p>
 
 
 
@@ -47,7 +60,7 @@
 <ul>
   <li><a href="https://github.com/your-project1">Project 1</a> -Infrastructure automation with terraform.</li>
   <li><a href="https://github.com/your-project2">Project 2</a> - CI/CD pipeline with jenkins.</li>
-  <li><a href="https://github.com/your-project3">Project 3</a> - Movie listing website.</li>
+  <li><a href="https://github.com/your-project3">Project 3</a> - personal portfolio.</li>
 </ul>
 
 <p align="center">Feel free to connect with me on LinkedIn or Twitter to stay updated with my latest projects and achievements.</p>
@@ -62,20 +75,7 @@
 
 
 
-<!--
-PadalaVenkataKrishnareddy/PadalaVenkataKrishnareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
