@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi👋 Sanju Chilukuri
 <h1 align="center">Sanju Chilukuri</h1>
 
 <p align="center">
@@ -9,7 +8,7 @@
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
+<p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing softwares.</p>
 
 <p align="center">Here are some of my areas of expertise:</p>
 
@@ -19,7 +18,6 @@
   <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
   <li>Database Management (MySQL, MongoDB)</li>
   <li>Operating systems ( Linux, Windows) </li>
-  
 </ul>
 
 
