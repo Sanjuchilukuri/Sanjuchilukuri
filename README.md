@@ -13,9 +13,10 @@
 <p align="center">Here are some of my areas of expertise:</p>
 
 <ul>
-  <li>Cloud Engineer</li>
+  <li>programming using (C++,Python,Java)</li>
+  <li>AWS cloud practitioner</li>
   <li>Devops Engineer</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript, Bootstrap)</li>
   <li>Database Management (MySQL, MongoDB)</li>
   <li>Operating systems ( Linux, Windows) </li>
 </ul>
