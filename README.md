@@ -8,8 +8,8 @@
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjuchilukuri&label=Profile%20views&color=0e75b6&style=flat" alt="Sanju-Chilukuri" /> </p>
 <p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing softwares.</p>
-
 <p align="center">Here are some of my areas of expertise:</p>
 
 <ul>
