@@ -13,12 +13,13 @@
 <p align="center">Here are some of my areas of expertise:</p>
 
 <ul>
-  <li>programming using (C++,Python,Java)</li>
-  <li>AWS cloud practitioner</li>
-  <li>Devops Engineer</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript, Bootstrap)</li>
-  <li>Database Management (MySQL, MongoDB)</li>
+  <li>programming using (C,C++,C#,Visual Basic)</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript, Bootstrap, Angular, React.js)</li>
+  <li>Back-end Technologies (.Net Core) </li>
+  <li>Database Management (MSSQL)</li>
   <li>Operating systems ( Linux, Windows) </li>
+  <li>Versioning Control (Git, Github) </li>
+  <li>Cloud Computing Using AWS</li>
 </ul>
 
 
