@@ -13,7 +13,7 @@
 <p align="center">Here are some of my areas of expertise:</p>
 
 <ul>
-  <li>programming using (C,C++,C#,Visual Basic)</li>
+  <li>programming using (C, C++, C#, Visual Basic)</li>
   <li>Front-end Technologies (HTML, CSS, JavaScript, Bootstrap, Angular, React.js)</li>
   <li>Back-end Technologies (.Net Core) </li>
   <li>Database Management (MSSQL)</li>
@@ -23,7 +23,7 @@
 </ul>
 
 
-
+<!--
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -31,7 +31,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-%230076D6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+-->
 
 # <> Code Potray:
 [![sanju's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sanju_chilukuri)](https://auth.geeksforgeeks.org/user/sanju_chilukuri/)
