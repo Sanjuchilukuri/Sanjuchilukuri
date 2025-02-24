@@ -34,10 +34,15 @@
 -->
 
 # <> Code Potray:
-[![sanju's geeksForgeeks stats](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=dark&userName=sanju_chilukuri)](https://www.geeksforgeeks.org/user/sanju_chilukuri)
-
-[![Leetcode stats](https://coding-cards.vercel.app/api/leetcode-stats?action=profileCard&theme=dark&userName=sanju1819)](https://leetcode.com/sanju1819/)
-
+<p >
+  <a href="https://www.geeksforgeeks.org/user/sanju_chilukuri">
+    <img src="https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=dark&userName=sanju_chilukuri" width="350">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/sanju1819/">
+    <img src="https://coding-cards.vercel.app/api/leetcode-stats?action=profileCard&theme=dark&userName=sanju1819" width="350">
+  </a>
+</p>
 
 
 #  <p align="center">Check out some of my projects:</p>
