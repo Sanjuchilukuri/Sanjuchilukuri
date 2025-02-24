@@ -34,7 +34,7 @@
 -->
 
 # <> Code Potray:
-[![sanju's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sanju_chilukuri)](https://www.geeksforgeeks.org/user/sanju_chilukuri)
+[![sanju's geeksForgeeks stats](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=dark&userName=sanju_chilukuri)](https://www.geeksforgeeks.org/user/sanju_chilukuri)
 
 [![Leetcode stats](https://leetcard.jacoblin.cool/sanju1819?theme=dark)](https://leetcode.com/sanju1819/)
 
