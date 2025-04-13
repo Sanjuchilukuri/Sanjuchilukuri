@@ -44,13 +44,14 @@
   </a>
 </p>
 
-
+<!--
 #  <p align="center">Check out some of my projects:</p>
 
 <ul>
   <li><a href="https://github.com/Sanjuchilukuri/CI-CD-Pipeline">Project  1</a> - CI/CD pipeline with jenkins.</li>
   <li><a href="https://github.com/Sanjuchilukuri/trail">Project 2</a> - personal portfolio.</li>
 </ul>
+-->
 
 
 <br><br><br>
